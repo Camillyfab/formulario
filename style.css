@@ -1,8 +1,15 @@
 body{
-  background: rgb(131, 245, 131); 
+  background: rgb(202, 255, 105); 
+
+}
+
+p{
+  color: rgb(145, 39, 39);
 }
 
 form label {
   display: block;
   font-size: 25px;
+  color: rgb(52, 110, 5)
+  ;
 }
