@@ -3,6 +3,13 @@ body{
 
 }
 
+
+
+
+
+thead{
+  background-color: forestgreen;
+}
 p{
   color: rgb(13, 116, 35);
 }
@@ -30,5 +37,5 @@ td {
   border: 1px solid #000000;
   border-color: green;
   text-align: center;
-  background-color: green;
+  
 }
